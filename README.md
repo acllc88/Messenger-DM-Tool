@@ -5,6 +5,7 @@ Static landing page for the Messenger DM Tool Chrome extension.
 ## Files
 - `index.html` — main page
 - `terms.html` — Terms of Service & Refund Policy (Stripe & PayPal, no-refund)
+- `How-to-Install-Messenger-DM-Tool.pdf` — Client installation guide (step-by-step)
 - `demo.mp4` — product demo video
 - `shot1.png`, `shot2.png` — product screenshots
 - `steps/step-01.jpg` … `step-08.jpg` — walkthrough frames from the video
